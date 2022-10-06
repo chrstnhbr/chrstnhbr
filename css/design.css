@@ -1,0 +1,210 @@
+html, body{
+    background-color: #000;
+    font-family: 'SpaceGrotesk-Regular', Arial, sans-serif;
+    color: black;
+    height: 100%;
+}
+
+
+img.spacer-5{
+    margin-bottom:5px;
+}
+
+img.logo{
+    width:203px;
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+}
+
+
+.wrapper {
+  background-image: url(../img/Ellipse-1.png);
+  background-size: 65%;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100%
+}
+
+.spacer-120{
+    height:120px;
+}
+
+.spacer-180{
+    height:162px;
+}
+
+.spacer-70{
+    height:70px;
+}
+
+.spacer-360{
+    height:320px;
+}
+
+.spacer-20{
+    height:20px;
+}
+
+.spacer-40{
+    height:23px;
+}
+
+.margin-20-negative{
+    margin-top:-21px;
+    height: 1px;
+}
+
+.regular{
+    font-family: 'OSTRegular', Arial, sans-serif;
+}
+
+.txt-opener a{
+    color: white;
+}
+
+.fixed{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+}
+
+.txt-opener{
+    font-size: 80px;
+    line-height: 140%;
+    letter-spacing: 0.055em;
+    font-family: 'OSTRegular', Arial, sans-serif;
+    color: white;
+}
+
+.txt-opener-imprint{
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 0.09em;
+    font-family: 'OSTRegular', Arial, sans-serif;
+    margin-left:170px;
+    margin-right: 170px;
+    color: white;
+}
+
+
+.footer{
+    height:50px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-links, .footer-links a{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'SPG-Regular', Arial, sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+
+
+
+.cookie {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    height: auto;
+    z-index: 9998;
+    background: black;
+    color: #fff;
+}
+
+.cookie .cookie__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    width: calc(100% - 120px);
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.cookie .cookie__notice {
+    font-size: 18px;
+    line-height: 34px;
+    font-weight: 400;
+    padding: 0 60px 0 0;
+    letter-spacing: 0.7px;
+}
+
+.cookie .cookie__notice a{
+  color: white;
+  font-family: 'SpaceGrotesk-Regular', Arial, sans-serif !important;
+  letter-spacing: 0.9px;
+}
+
+.cookie .cookie__notice a:hover{
+  text-decoration-color: white;
+  text-decoration: none;
+}
+
+
+.cookie .cookie__accept .accept {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 40px;
+    color: #fff;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid white;
+    transition: background-color 350ms cubic-bezier(0.21, 0.4, 0.48, 1);
+    letter-spacing: 0.9px;
+}
+
+.cookie .cookie__accept a:hover{
+  cursor: pointer;
+}
+
+.remove {
+    transform:translate3d(0, -100%, 0);
+}
+
+
+
+::selection{
+    background:#f3f3f3 !important;
+}
+
+@media screen and (max-width: 1024px){
+    .txt-opener{
+    font-size: 40px;
+    line-height: 140%;
+    letter-spacing: 0.09em;
+    font-family: 'OSTRegular', Arial, sans-serif;
+    margin-left:40px;
+    margin-right: 40px;
+    color: white;
+}
+
+.txt-opener-imprint{
+    font-size: 20px;
+    line-height: 140%;
+    letter-spacing: 0.09em;
+    font-family: 'OSTRegular', Arial, sans-serif;
+    margin-left:40px;
+    margin-right: 40px;
+    color: white;
+}
+.contact-items.first{
+    margin-left:40px;
+}
+}
