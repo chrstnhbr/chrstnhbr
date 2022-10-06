@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF512F" offset="0%"></stop>
+            <stop stop-color="#DD2476" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Simple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Full-HD-2" transform="translate(-1129.000000, -1880.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(1129.000000, 1880.000000)">
+                <g id="Group-2">
+                    <g id="Group">
+                        <path d="M60,0 L60,60 L0,60 L0,0 L60,0 Z M36.964,17.908 L31.564,17.908 L31.564,26.692 C30.736,25.864 30.736,25.864 29.476,25.36 C28.216,24.856 28.216,24.856 26.884,24.856 C24.868,24.856 24.868,24.856 23.212,25.954 C21.556,27.052 21.556,27.052 20.602,29.14 C19.648,31.228 19.648,31.228 19.648,34.108 C19.648,36.808 19.648,36.808 20.512,38.914 C21.376,41.02 21.376,41.02 22.996,42.208 C24.616,43.396 24.616,43.396 26.884,43.396 C28.18,43.396 28.18,43.396 29.422,42.982 C30.526,42.614 30.526,42.614 31.3597778,41.862 L31.564,41.668 L31.564,43 L36.964,43 L36.964,17.908 Z M28.396,29.824 C30.376,29.824 30.376,29.824 31.222,31.066 C32.068,32.308 32.068,32.308 32.068,34.18 C32.068,36.052 32.068,36.052 31.186,37.186 C30.304,38.32 30.304,38.32 28.36,38.32 C26.812,38.32 26.812,38.32 25.948,37.276 C25.084,36.232 25.084,36.232 25.084,34.18 C25.084,32.128 25.084,32.128 25.966,30.976 C26.848,29.824 26.848,29.824 28.396,29.824 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FD1D1D" offset="0%"></stop>
+            <stop stop-color="#E1306C" offset="23.6124674%"></stop>
+            <stop stop-color="#C13584" offset="40.5289714%"></stop>
+            <stop stop-color="#833AB4" offset="56.936849%"></stop>
+            <stop stop-color="#5851DB" offset="73.1510417%"></stop>
+            <stop stop-color="#405DE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Simple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Full-HD-2" transform="translate(-1289.000000, -1880.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(1129.000000, 1880.000000)">
+                <g id="Group-2">
+                    <path d="M220,0 L220,60 L160,60 L160,0 L220,0 Z M192.452,25.252 L187.016,25.252 L187.016,43 L192.452,43 L192.452,25.252 Z M192.524,17.908 L186.98,17.908 L186.98,22.804 L192.524,22.804 L192.524,17.908 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

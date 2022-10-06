@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.11022302e-14%" y1="100%" x2="100%" y2="3.74939946e-31%" id="linearGradient-1">
+            <stop stop-color="#314755" offset="0%"></stop>
+            <stop stop-color="#26A0DA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Simple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Full-HD-Imprint" transform="translate(-1370.000000, -1880.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(1129.000000, 1880.000000)">
+                <g id="Group-2">
+                    <path d="M301,0 L301,60 L241,60 L241,0 L301,0 Z M272.236,17.908 L266.8,17.908 L266.8,38.5 C266.8,40.948 266.8,40.948 268.096,42.172 C269.392,43.396 269.392,43.396 271.444,43.396 C272.767,43.396 272.767,43.396 274.062437,42.955 L274.432,42.82 L274.432,38.572 C273.856,38.716 273.856,38.716 273.28,38.716 C272.704,38.716 272.704,38.716 272.47,38.536 C272.26525,38.3785 272.26525,38.3785 272.239656,37.9178125 L272.236,37.78 L272.236,17.908 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
