@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'OSTBold';
+    src: url('OldStandardTT-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OSTRegular';
+    src: url('OldStandardTT-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'OSTItalic';
+    src: url('OldStandardTT-Italic.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SPG-Bold';
+    src: url('SpaceGrotesk-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SPG-Regular';
+    src: url('SpaceGrotesk-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SPG-Medium';
+    src: url('SpaceGrotesk-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SPG-Light';
+    src: url('SpaceGrotesk-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
